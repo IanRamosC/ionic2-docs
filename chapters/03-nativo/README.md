@@ -3,7 +3,7 @@
 3.2 > [AppAvailability](3b-appAvailability.md)  
 3.3 > [AppRate](3c-appRate.md)  
 3.4 > [AppVersion](3d-appVersion.md)  
-3.5 > Badge  
+3.5 > [Badge(3e-badge.md)  
 3.6 > BarCodeScanner  
 3.7 > [Base64ToGallery](3g-base64togallery.md)  
 3.8 > [BatteryStatus](3h-batteryStatus.md)  
